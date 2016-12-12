@@ -101,9 +101,12 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Welcome to The Odd Box server!",
+"Staff is here to help",
+"We LOVE your feedback.",
+"We're under development.",
+"For staff applications, talk to an admin.",
+"MAKE ROLEPLAY GREAT AGAIN!"
 ];
 
 /*Random message order?*/
