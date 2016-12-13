@@ -105,7 +105,6 @@ var l_messages = [
 "Staff is here to help",
 "We LOVE your feedback.",
 "We're under development.",
-"For staff applications, talk to an admin.",
 "MAKE ROLEPLAY GREAT AGAIN!"
 ];
 
